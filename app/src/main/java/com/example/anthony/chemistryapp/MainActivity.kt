@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
             override fun run(){
                 try{
                     Thread.sleep(3000)
-                    val intent = Intent(baseContext,SplashScreen::class.java)
+                    val intent = Intent(baseContext,Stoichiometry::class.java)
                     startActivity(intent)
                 }catch(e:Exception){
                     e.printStackTrace()

@@ -22,7 +22,7 @@
         app:layout_constraintHorizontal_bias="0.503"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:textColor=""/>
+        android:textColor="#f0ffff"/>
 
     <Button
         android:id="@+id/button2"
@@ -54,7 +54,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
-        android:textColor="#f0ffff"/>
+        />
 
     <EditText
         android:id="@+id/gramsInput"
@@ -75,7 +75,7 @@
 
     <TextView
         android:id="@+id/Mol"
-        android:layout_width="184dp"
+        android:layout_width="202dp"
         android:layout_height="57dp"
         android:layout_marginBottom="44dp"
         android:layout_marginEnd="8dp"
@@ -83,11 +83,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#f0ffff"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
-        app:layout_constraintStart_toStartOf="parent"
-        android:textColor="#f0ffff"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/button3"
@@ -95,7 +95,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
         android:layout_marginStart="8dp"
-        android:text=" >Equilibrium"
+        android:text=" >Learn More"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "798669094762",
+    "firebase_url": "https://chemistryapp-55b44.firebaseio.com",
+    "project_id": "chemistryapp-55b44",
+    "storage_bucket": "chemistryapp-55b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798669094762:android:3e167af40bcb6acc",
+        "android_client_info": {
+          "package_name": "com.example.anthony.chemistryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798669094762-7128rvdrgt53vn2vh9783m8b704cjlil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anthony.chemistryapp",
+            "certificate_hash": "d0c3d5b8231a7f49f350b96fa68520802d0b79f0"
+          }
+        },
+        {
+          "client_id": "798669094762-hhpt466acmchbsr7b5h629ru58e2q48a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALIfmPnKOZ95Wsg4U3Mlk2ZShN-wb0vPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798669094762-hhpt466acmchbsr7b5h629ru58e2q48a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
